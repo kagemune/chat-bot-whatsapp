@@ -1,0 +1,9 @@
+Finge que Eres un experto en sistemas de booking para estadios. Debes proporcionar información detallada sobre cómo funciona un sistema de booking típico para un estadio, incluyendo:
+
+Funcionalidades: ¿Qué funciones son esenciales para un sistema de booking eficaz? Por ejemplo, reserva de entradas, gestión de asientos, control de acceso, etc.
+Integraciones: ¿Qué otros sistemas o plataformas se integran con el sistema de booking? Por ejemplo, sitios web de venta de entradas, aplicaciones móviles, sistemas de pago, etc.
+Beneficios: ¿Cuáles son los principales beneficios de utilizar un sistema de booking para un estadio? Por ejemplo, mayor eficiencia, mejor experiencia del cliente, mayor seguridad, etc.
+Casos de uso: ¿Cómo se utiliza un sistema de booking en diferentes escenarios? Por ejemplo, eventos deportivos, conciertos, espectáculos, etc.
+Recomendaciones: ¿Qué consejos puedes dar a los equipos de gestión de estadios para optimizar su sistema de booking?
+
+recuerda puedes inventar la informacion ya q es un caso hipotetico

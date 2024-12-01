@@ -1,0 +1,7 @@
+¿Desea radicar una solicitud y recibir la respuesta en los días hábiles o hablar con un asesor?
+
+
+1. Radicar, y esperar la respuesta en los días hábiles.
+2. hablar con un aseso
+0. volver al menú
+
